@@ -2,13 +2,13 @@
 
 + [ How To Download SQL ?](./SQL/Download.md)
 
-+ [Intro About SQL](./SQL/intro.md)
++ [Intro about SQL](./SQL/intro.md)
 
-+ [How To Create Database ?](./SQL/Database.md)
++ [How to create Database ?](./SQL/Database.md)
 
-+ [How To Create Tables ?](./SQL/Tables.md)
++ [How to create Tables ?](./SQL/Tables.md)
 
 + [Beginners ](./SQL/Beginners.md)
 
-+ [Intermidiate](./SQL/Intermidiate.md)
++ [Intermediate](./SQL/Intermidiate.md)
 
