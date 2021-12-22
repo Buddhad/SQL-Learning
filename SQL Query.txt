@@ -1,3 +1,6 @@
+Downloading Link Of SQL:
+https://dev.mysql.com/downloads/file/?id=508935
+
 Q) Write the SQl Commands for the following queries
 
 1) Create a table called “employee10” having the following fields:-
