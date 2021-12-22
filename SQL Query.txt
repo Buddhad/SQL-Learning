@@ -1,5 +1,7 @@
 Downloading Link Of SQL:
 https://dev.mysql.com/downloads/file/?id=508935
+Or
+https://dev.mysql.com/downloads/windows/installer/8.0.html
 
 Q) Write the SQl Commands for the following queries
 
