@@ -5,7 +5,7 @@
 
 ***2. Search MySQL***
 
-![Search MySQL](../Img/sql1.png)
+![Search MySQL](../Img/mysql1.png)
 
 ***3.SQL Page***
 
