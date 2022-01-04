@@ -1,21 +1,30 @@
-# Exercise 1
+# Exercise -1
+## `Exercise -1.1`
 
-## Simple filtering of numeric values
-
-As you learned in the previous exercise, the `WHERE` clause can also be used to filter numeric records, such as years or ages.
-
-`For example` the following query selects all details for films with a budget over ten thousand dollars:
-
+## First Query
+```sql
+-- Try running me!
+select 'You are Amazing <3 '
+AS result;
 ```
-SELECT *
-FROM films
-WHERE budget > 10000;
+
+## `Exercise -1.2`
+## Multi-step Exercises
+The following multi-step exercise allows you to practice a new concept through repetition. Check it out!
+
+`1` Submit the query in the editor! Don't worry, you'll learn how it works soon.
+
+```sql
+SELECT 'SQL'
+AS result ;
 ```
-Now it's your turn to use the `WHERE` clause to filter numeric values!
-
-`Questions:`
-1. Get all details for all films released in 2016.
-2. Get the number of films released before 2000.
-3. Get the title and release year of films released after 2000.
-
-+ [Answers](../Answers/Ex-1.md)
+`2` Now change `'SQL'` to `'SQL is'` and click Submit!
+```sql
+SELECT 'SQL is'
+AS result;
+```
+`3` Finally, change `'SQL is'` to `'SQL is cool'` and click Submit!
+```sql
+SELECT 'SQL is cool'
+AS result;
+```

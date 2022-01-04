@@ -40,4 +40,3 @@
 + [How To Setup MySQL Server](../SQL/Setup.md)
 
 + My Video [Link]()
-
