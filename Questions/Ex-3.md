@@ -3,7 +3,9 @@
 
 ## Learning to `COUNT`
 
-What if you want to count the number of employees in your employees table? The `COUNT()` function lets you do this by returning the number of rows in one or more columns.
+What if you want to count the number of `employees` in your `employees table`? 
+
+The `COUNT()` function lets you do this by returning the number of rows in one or more columns.
 
 For example, this code gives the number of rows in the people table:
 ```sql
@@ -23,6 +25,7 @@ FROM people;
 
 5. 9,864
 
++ [`Answers`](../Answers/Ex-3.md)
 ## `Exercise -3.2`
 ## Practice with COUNT
 As you've seen, `COUNT(*)` tells you how many rows are in a table. However, if you want to count the number of non-missing values in a particular column, you can call `COUNT()` on just that column.
