@@ -45,15 +45,15 @@ SELECT COUNT(DISTINCT birthdate)
 FROM people;
 ```
 
-`Questions:1` Count the number of rows in the people table.
+`Question: 1` Count the number of rows in the people table.
 
-`Questions:2` Count the number of (non-missing) birth dates in the people table.
+`Question: 2` Count the number of (non-missing) birth dates in the people table.
 
-`Questions:3` Count the number of unique birth dates in the people table.
+`Question: 3` Count the number of unique birth dates in the people table.
 
-`Questions:4` Count the number of unique languages in the films table.
+`Question: 4` Count the number of unique languages in the films table.
 
-`Questions:5` Count the number of unique countries in the films table.
+`Question: 5` Count the number of unique countries in the films table.
 
 + [`Answers`](../Answers/Ex-3.md)
 
@@ -80,7 +80,7 @@ Notice that the WHERE clause always comes after the FROM statement!
 
 **Note:- we will use <> and not != for the not equal operator, as per the SQL standard.**
 
-`Questions:1` What does the following query return?
+`Question: 1` What does the following query return?
 
 1. Films released before the year 2000
 
@@ -101,11 +101,11 @@ WHERE budget > 10000;
 ```
 Now it's your turn to use the WHERE clause to filter numeric values!
 
-`Questions:1`  Get all details for all films released in 2016.
+`Question: 1`  Get all details for all films released in 2016.
 
-`Questions:2`  Get the number of films released before 2000.
+`Question: 2`  Get the number of films released before 2000.
 
-`Questions:3`  Get the title and release year of films released after 2000.
+`Question: 3`  Get the title and release year of films released after 2000.
 
 + [`Answers`](../Answers/Ex-3.md)
 

@@ -19,11 +19,11 @@ That said, it's good practice to make `SQL keywords uppercase` to distinguish th
 
 It's also good practice  to `include a semicolon at the end of your query`. This tells SQL where the end of your query is!
 
-`Questions:1` Select the title column from the films table.
+`Question: 1` Select the title column from the films table.
 
-`Questions:2` Select the release_year column from the films table.
+`Question: 2` Select the release_year column from the films table.
 
-`Questions:3` Select the name of each person in the people table.
+`Question: 3` Select the name of each person in the people table.
 + [`Answers`](../Answers/Ex-2.md)
 
 
@@ -50,13 +50,13 @@ FROM people;
 
 Before getting started with the instructions below, check out the column names in the `films table`!
 
-`Questions:1` Get the title of every film from the films table.
+`Question: 1` Get the title of every film from the films table.
 
-`Questions:2` Get the title and release year for every film.
+`Question: 2` Get the title and release year for every film.
 
-`Questions:3` Get the title, release year and country for every film.
+`Question: 3` Get the title, release year and country for every film.
 
-`Questions:4` Get all columns from the films table.
+`Question: 4` Get all columns from the films table.
 
 + [`Answers`](../Answers/Ex-2.md)
 
@@ -73,11 +73,11 @@ FROM films;
 ```
 Remember, you can check out the data in the tables by `clicking on the table name!`
 
-`Questions:1` Get all the unique countries represented in the films table
+`Question: 1` Get all the unique countries represented in the films table
 
-`Questions:2` Get all the different film certifications from the films table.
+`Question: 2` Get all the different film certifications from the films table.
 
-`Questions:3` Get the different types of film roles from the roles table.
+`Question: 3` Get the different types of film roles from the roles table.
 
 + [`Answers`](../Answers/Ex-2.md)
 
